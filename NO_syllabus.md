@@ -1,22 +1,22 @@
 # Numerical-Linear-Algebra-Parallel-Computing
 
 **Course Description**
-This course is an introduction to numerical Linear Algebra and HPC, Subject of this course are numerical algorithms for solving problems in Linear Algebra and optimizations technics using Python languages and it's libraries.
+This course is an introduction to numerical Linear Algebra and HPC, The topics of this course are numerical algorithms for solving problems in Linear Algebra and optimizations techniques using the Python languages and its libraries.
 
 **Duration:**
 4 sessions can be extended to 6 sessions
 
 **Requirements:**
 - Elementary linear algebra.
-- Intermediate level of programming knowledge in Python
+- Intermediate level of programming in Python
 
 **Homework & Programs**
-Before each session you will be given some easy exercises just to get prepare
-you for the session, and the session itself consist of Course part and lab part
-you will learn concepts in the course part, then apply your knowledge in the Lab
-time, where you will have to do exercise in a limited time, after end of each
-exercise we will correct together the exercise, and give a change to ask your questions.
-After the session you will be given a homework to do, the homework deadline is the next session.
+Before each session, you will be given some easy exercises just to prepare yourself
+for the session. The session itself consists of a lecture part and a lab part.
+you will learn new concepts during lecture, then you apply them in the Lab.
+During the lab, you will have to solve exercises in a timely manner so we could correct
+them together. This will also be your opportunity to ask your questions.
+After the session you will be given homework which is due for the next session.
 
 - PreSession exercises
 - Course (about 1 hour)
@@ -28,15 +28,18 @@ After the session you will be given a homework to do, the homework deadline is t
 1. Analysis of Algorithms:
    - Asymptotic Notation (Big O Notation)
    - Recursion (recursive functions, Divide and Conquer, Memorization)
+   - Master theorem
    - Average Case Analysis
    - Memory and performance
-   - layout in Numpy arrays (order)
    - CPU vs Memory (Memory Wall)
-   - Physical Memory (type of memories in a computer)
+   - Memory hierarchy
    - Memory storage and access improvements
       - Column major vs row major
+      - layout in Numpy arrays (order)
       - loop tailing and loop unrolling
    - Example: Matrix multiplication
+   - Communication-avoiding algorithms
+   - Matrix taxonomy
    - TP: complexity calculation, and memory optimization
 2. Dense Linear Algebra in Numpy and Scipy
 3. Blas and LAPACK
