@@ -36,7 +36,7 @@ After the session you will be given homework which is due for the next session.
    - Memory storage and access improvements
       - Column major vs row major
       - layout in Numpy arrays (order)
-      - loop tailing and loop unrolling
+      - loop tiling and loop unrolling
    - Example: Matrix multiplication
    - Communication-avoiding algorithms
    - Matrix taxonomy
