@@ -93,15 +93,6 @@ After the session you will be given homework which is due for the next session.
    d. Conjugate gradients
    e. Preconditioning
 
-**disseminating**
-- session 1: chapter 1 and 2
-- session 2: chapter 3 and half of chapter 4
-- session 3: half of chapter 4 and chapter 5
-- session 4: Chapter 6 and half of chapter 7
-- session 5: half of chapter 7
-- session 6: ...
--
-
 **Attendance Policy**
 Students are expected to attend classes regularly, since the consistent attendance offers the most
 effective opportunity open to all students to gain command of the concepts and materials of the
