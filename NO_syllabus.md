@@ -38,7 +38,6 @@ After the session you will be given homework which is due for the next session.
       - layout in Numpy arrays (order)
       - loop tiling and loop unrolling
    - Example: Matrix multiplication
-   - Communication-avoiding algorithms
    - Matrix taxonomy
    - TP: complexity calculation, and memory optimization
 2. Dense Linear Algebra in Numpy and Scipy
